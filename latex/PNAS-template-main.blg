@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2020/Arch Linux)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: PNAS-template-main.aux
+The style file: pnas-new.bst
+Database file #1: cite.bib
+Warning--empty journal in role_models
+Warning--empty title in prison
+You've used 3 entries,
+            1837 wiz_defined-function locations,
+            491 strings with 4025 characters,
+and the built_in function-call counts, 564 in all, are:
+= -- 43
+> -- 20
+< -- 0
++ -- 7
+- -- 4
+* -- 41
+:= -- 87
+add.period$ -- 4
+call.type$ -- 3
+change.case$ -- 3
+chr.to.int$ -- 0
+cite$ -- 5
+duplicate$ -- 33
+empty$ -- 64
+format.name$ -- 4
+if$ -- 121
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 3
+newline$ -- 13
+num.names$ -- 3
+pop$ -- 16
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 14
+stack$ -- 0
+substring$ -- 31
+swap$ -- 4
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 5
+width$ -- 4
+write$ -- 26
+(There were 2 warnings)
